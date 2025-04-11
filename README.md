@@ -10,9 +10,13 @@ This project is a version of the bid calculation vuejs
 ### Setting up
 
 First, clone the repository:\
-`git clone `
+```sh
+git clone https://github.com/nasquevedo/bid-calculation-fe_reactjs.git
+```
 
-Once the repository was clone, run docker compose to create the image and container.\
-`docker-compose up -d --build`
+Once the repository was cloned, run docker compose to create the image and container.\
+```sh
+docker-compose up -d --build
+```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
