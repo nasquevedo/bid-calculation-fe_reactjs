@@ -1,0 +1,18 @@
+.price__container {
+    border-top: 1px dashed #000;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.item__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.resalted {
+    font-weight: bold;
+}
+
+.subitem {
+    font-size: 14px;
+}
